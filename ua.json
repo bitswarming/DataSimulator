@@ -1,0 +1,1142 @@
+{
+  "country": "prob",
+  "time_zones": {
+    "ukraine": {
+      "kyiv": {
+        "usage": 100.0,
+        "utc": "+3"
+      }
+    },
+    "russia": {
+      "moscow": {
+        "usage": 100.0,
+        "utc": "+3"
+      },
+      "orenburn": {
+        "usage": 100.0,
+        "utc": "+5"
+      }
+    }
+  },
+  "devices": {
+    "console": {
+      "usage": 0.12,
+      "resolutions": {
+        "1920x1080": {
+          "usage": 56.14
+        },
+        " 1324x745": {
+          "usage": 14.13
+        },
+        "1280x720": {
+          "usage": 6.81
+        },
+        "1024x768": {
+          "usage": 9.02
+        },
+        "1200x675": {
+          "usage": 2.56
+        },
+        "640x480": {
+          "usage": 2.36
+        },
+        "1167x656": {
+          "usage": 2.12
+        },
+        "800x628": {
+          "usage": 0.47
+        }
+      },
+      "platforms": {
+        "Playstation": {
+          "usage": 66.27
+        },
+        "Xbox": {
+          "usage": 25.48
+        },
+        "Nintendo": {
+          "usage": 8.25
+        },
+        "WebTVOS": {
+          "usage": 0.01
+        },
+        "AppleTV": {
+          "usage": 0.3
+        }
+      }
+    },
+    "tablet": {
+      "usage": 5.16,
+      "resolutions": {
+        "768x1024": {
+          "usage": 60.24
+        },
+        " 1280x800": {
+          "usage": 7.43
+        },
+        "600x1024": {
+          "usage": 2.42
+        },
+        "800x1280": {
+          "usage": 2.36
+        },
+        "601x962": {
+          "usage": 2.08
+        },
+        "600x976": {
+          "usage": 1.41
+        },
+        "962x601": {
+          "usage": 1.13
+        },
+        "1024x768": {
+          "usage": 1.07
+        },
+        "1024x552": {
+          "usage": 0.89
+        }
+      },
+      "platforms": {
+        "iOS": {
+          "usage": 65.88,
+          "versions": {
+            "9": {
+              "usage": 86.0,
+              "browsers": {
+                "safari": {
+                  "usage": 60.65,
+                  "navigator_platform": "iPad",
+                  "navigator_appName": "Netscape",
+                  "navigator_appCodeName": "Mozilla"
+                },
+                "chrome": {
+                  "usage": 19.66
+                }
+              }
+            },
+            "8": {
+              "usage": 11.0
+            },
+            "7": {
+              "usage": 3.6
+            },
+            "6": {
+              "usage": 2.6
+            }
+          }
+        }
+      },
+      "Android": {
+        "usage": 31.95,
+        "versions": {
+          "Gingerbread": {
+            "usage": 0.8
+          },
+          "IceCreamSandwich": {
+            "usage": 1.7
+          },
+          "JellyBean1": {
+            "usage": 5.0
+          },
+          "JellyBean2": {
+            "usage": 8.7
+          },
+          "JellyBean3": {
+            "usage": 3.1
+          },
+          "KitKat": {
+            "usage": 35.7
+          },
+          "Lollipop0": {
+            "usage": 14.4
+          },
+          "Lollipop1": {
+            "usage": 23.6
+          },
+          "Marshmallow": {
+            "usage": 6.9
+          },
+          "Nougat": {
+            "usage": 0.0
+          }
+        }
+      },
+      "Linux": {
+        "usage": 1.07
+      },
+      "windows": {
+        "usage": 0.75,
+        "versions": {
+          "Win8_1RT": {
+            "usage": 100.0
+          }
+        }
+      }
+    },
+    "desktop": {
+      "usage": 53.16,
+      "colours": {
+        "16": {
+          "usage": 100.0
+        },
+        "32": {
+          "usage": 100.0
+        }
+      },
+      "resolutions": {
+        " 1366x768": {
+          "usage": 30.67
+        },
+        "1920x1080": {
+          "usage": 13.29
+        },
+        "1024x768": {
+          "usage": 7.54
+        },
+        "1280x800": {
+          "usage": 6.27
+        },
+        "1440x900": {
+          "usage": 6.18
+        },
+        "1600x900": {
+          "usage": 6.02
+        },
+        "1280x1024": {
+          "usage": 5.91
+        },
+        "640x360": {
+          "usage": 15.15
+        },
+        "1680x1050": {
+          "usage": 2.85
+        },
+        "1360x768": {
+          "usage": 2.54
+        },
+        "1280x720": {
+          "usage": 1.97
+        }
+      },
+      "platforms": {
+        "windows": {
+          "usage": 84.65,
+          "versions": {
+            "xp": {
+              "usage": 8.44
+            },
+            "vista": {
+              "usage": 1.78
+            },
+            "7": {
+              "usage": 47.46
+            },
+            "8": {
+              "usage": 2.98
+            },
+            "8_1": {
+              "usage": 12.15,
+              "browsers": {
+                "explorer": {
+                  "usage": 31.65,
+                  "navigator_platform": "Win32",
+                  "navigator_appName": "Netscape",
+                  "navigator_appCodeName": "Mozilla",
+                  "versions": {
+                    "11": {
+                      "navigator_appVersion": "5.0 (Windows NT 10.0; WOW64; Trident/7.0; NET4.0C; NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.30729; .NET CLR 3.5.30729; rv:11.0) like Gecko",
+                      "navigator_userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; NET4.0C; NET4.0E; .NET CLR 2.0.50727;  .NET CLR 3.0.30729; .NET CLR 3.5.30729; rv:11.0) like Gecko",
+                      "usage": 19.4
+                    },
+                    "8": {
+                      "navigator_appVersion": "5.0 (Windows NT 10.0; WOW64; Trident/7.0; NET4.0C; NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.30729; .NET CLR 3.5.30729; rv:8.0) like Gecko",
+                      "navigator_userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; NET4.0C; NET4.0E; .NET CLR 2.0.50727;  .NET CLR 3.0.30729; .NET CLR 3.5.30729; rv:8.0) like Gecko",
+                      "usage": 5.21
+                    }
+                  },
+                  "navigator_language": "en-US",
+                  "navigator_maxTouchPoints": {
+                    "0": {
+                      "usage": 0.95
+                    },
+                    "2": {
+                      "usage": 0.1
+                    },
+                    "5": {
+                      "usage": 0.1
+                    },
+                    "10": {
+                      "usage": 0.1
+                    }
+                  },
+                  "navigator_product": "Gecko"
+                },
+                "firefox": {
+                  "usage": 7.98,
+                  "navigator_platform": "Win32",
+                  "navigator_appName": "Netscape",
+                  "navigator_appCodeName": "Mozilla",
+                  "versions": {
+                    "45": {
+                      "navigator_appVersion": "navigator_appVersion^~5.0 (Windows)",
+                      "navigator_userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0",
+                      "usage": 0.3
+                    },
+                    "47": {
+                      "navigator_appVersion": "navigator_appVersion^~5.0 (Windows)",
+                      "navigator_userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0",
+                      "usage": 0.3
+                    }
+                  },
+                  "navigator_cookieEnabled": {
+                    "yes": {
+                      "name": true,
+                      "usage": 0.9
+                    },
+                    "no": {
+                      "name": false,
+                      "usage": 0.1
+                    }
+                  },
+                  "navigator_language": "en-US",
+                  "navigator_languages": [
+                    "am",
+                    "ar",
+                    "bg",
+                    "bn",
+                    "ca",
+                    "cs",
+                    "da",
+                    "de",
+                    "el",
+                    "en-GB",
+                    "en-US",
+                    "es-419",
+                    "es",
+                    "et",
+                    "fa",
+                    "fi",
+                    "fil",
+                    "fr",
+                    "gu",
+                    "he",
+                    "hi",
+                    "hr",
+                    "hu",
+                    "id",
+                    "it",
+                    "ja",
+                    "kn",
+                    "ko",
+                    "lt",
+                    "lv",
+                    "ml",
+                    "mr",
+                    "ms",
+                    "nb",
+                    "nl",
+                    "pl",
+                    "pt-BR",
+                    "pt-PT",
+                    "ro",
+                    "ru",
+                    "sk",
+                    "sl",
+                    "sr",
+                    "sv",
+                    "sw",
+                    "ta",
+                    "te",
+                    "th",
+                    "tr",
+                    "uk",
+                    "vi",
+                    "zh-CN",
+                    "zh-TW"
+                  ],
+                  "navigator_product": "Gecko",
+                  "navigator_productSub": 20100101
+                },
+                "chrome": {
+                  "usage": 48.65,
+                  "navigator_platform": "Win32",
+                  "navigator_appName": "Netscape",
+                  "navigator_appCodeName": "Mozilla",
+                  "versions": {
+                    "52_82": {
+                      "navigator_appVersion": "5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.82 Safari/537.36",
+                      "navigator_userAgent": "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.82 Safari/537.36",
+                      "usage": 35.17
+                    },
+                    "51_106": {
+                      "navigator_appVersion": "5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36",
+                      "navigator_userAgent": "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36",
+                      "usage": 5.17
+                    },
+                    "51_103": {
+                      "navigator_appVersion": "5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36",
+                      "navigator_userAgent": "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.79 Safari/537.36",
+                      "usage": 19.7
+                    },
+                    "51_79": {
+                      "navigator_appVersion": "5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.79 Safari/537.36",
+                      "navigator_userAgent": "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.79 Safari/537.36",
+                      "usage": 19.7
+                    },
+                    "50": {
+                      "navigator_appVersion": "5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2704.79 Safari/537.36",
+                      "navigator_userAgent": "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2704.79 Safari/537.36",
+                      "usage": 9.0
+                    },
+                    "49": {
+                      "navigator_appVersion": "5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2704.79 Safari/537.36",
+                      "navigator_userAgent": "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2704.79 Safari/537.36",
+                      "usage": 3.86
+                    },
+                    "45": {
+                      "navigator_appVersion": "5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2704.79 Safari/537.36",
+                      "navigator_userAgent": "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2704.79 Safari/537.36",
+                      "usage": 4.66
+                    }
+                  },
+                  "navigator_cookieEnabled": {
+                    "true": {
+                      "usage": 100.0
+                    },
+                    "false": {
+                      "usage": 0.0
+                    }
+                  },
+                  "navigator_javaEnabled": {
+                    "false": {
+                      "usage": 95.5
+                    },
+                    "true": {
+                      "usage": 4.5
+                    }
+                  },
+                  "navigator_colors": {
+                    "16": {
+                      "usage": 4.5
+                    },
+                    "24": {
+                      "usage": 80.5
+                    },
+                    "32": {
+                      "usage": 15
+                    }
+                  },
+                  "navigator_langs": {
+                    "ru": {
+                      "usage": 85.0,
+                      "navigator_language": "ru",
+                      "navigator_languages": "ru-RU,ru,en-US,en"
+                    },
+                    "en": {
+                      "usage": 10.0,
+                      "navigator_language": "en-US",
+                      "navigator_languages": "en-US, en"
+                    },
+                    "uk": {
+                      "usage": 5.0,
+                      "navigator_language": "uk",
+                      "navigator_languages": "~en-US,uk"
+                    }
+                  },
+                  "navigator_hardwareConcurrency": {
+                    "1": {
+                      "usage": 15.0
+                    },
+                    "2": {
+                      "usage": 45.0
+                    },
+                    "4": {
+                      "usage": 40.0
+                    },
+                    "6": {
+                      "usage": 3.0
+                    },
+                    "8": {
+                      "usage": 5.0
+                    }
+                  },
+                  "navigator_maxTouchPoints": {
+                    "0": {
+                      "usage": 100.0
+                    },
+                    "2": {
+                      "usage": 0.0
+                    },
+                    "5": {
+                      "usage": 0.0
+                    },
+                    "10": {
+                      "usage": 0.0
+                    }
+                  },
+                  "navigator_product": "Gecko",
+                  "navigator_productSub": 20030107,
+                  "navigator_vendor": "Google Inc."
+                },
+                "safari": {
+                  "usage": 0.0
+                },
+                "opera": {
+                  "usage": 4.64
+                },
+                "edge": {
+                  "usage": 5.09
+                }
+              }
+            },
+            "10": {
+              "usage": 11.84,
+              "browsers": {
+                "chrome": {
+                  "usage": 0.3,
+                  "navigator_platform": "Win32",
+                  "navigator_appName": "Netscape",
+                  "navigator_appCodeName": "Mozilla",
+                  "versions": {
+                    "52_82": {
+                      "navigator_appVersion": "5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.82 Safari/537.36",
+                      "navigator_userAgent": "5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.82 Safari/537.36",
+                      "usage": 95.17
+                    },
+                    "49_79": {
+                      "navigator_appVersion": "5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2704.79 Safari/537.36",
+                      "navigator_userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2704.79 Safari/537.36",
+                      "usage": 0.3
+                    },
+                    "51_79": {
+                      "navigator_appVersion": "5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.79 Safari/537.36",
+                      "navigator_userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.79 Safari/537.36",
+                      "usage": 0.3
+                    }
+                  },
+                  "navigator_cookieEnabled": {
+                    "true": {
+                      "usage": 100.0
+                    },
+                    "false": {
+                      "usage": 0.0
+                    }
+                  },
+                  "navigator_javaEnabled": {
+                    "false": {
+                      "usage": 95.5
+                    },
+                    "true": {
+                      "usage": 4.5
+                    }
+                  },
+                  "navigator_colors": {
+                    "16": {
+                      "usage": 4.5
+                    },
+                    "24": {
+                      "usage": 80.5
+                    },
+                    "32": {
+                      "usage": 15
+                    }
+                  },
+                  "navigator_langs": {
+                    "ru": {
+                      "usage": 85.0,
+                      "navigator_language": "ru",
+                      "navigator_languages": "ru-RU,ru,en-US,en"
+                    },
+                    "en": {
+                      "usage": 10.0,
+                      "navigator_language": "en-US",
+                      "navigator_languages": "en-US, en"
+                    },
+                    "uk": {
+                      "usage": 5.0,
+                      "navigator_language": "uk",
+                      "navigator_languages": "~en-US,uk"
+                    }
+                  },
+                  "navigator_hardwareConcurrency": {
+                    "1": {
+                      "usage": 15.0
+                    },
+                    "2": {
+                      "usage": 45.0
+                    },
+                    "4": {
+                      "usage": 40.0
+                    },
+                    "6": {
+                      "usage": 3.0
+                    },
+                    "8": {
+                      "usage": 5.0
+                    }
+                  },
+                  "navigator_maxTouchPoints": {
+                    "0": {
+                      "usage": 100.0
+                    },
+                    "2": {
+                      "usage": 0.0
+                    },
+                    "5": {
+                      "usage": 0.0
+                    },
+                    "10": {
+                      "usage": 0.0
+                    }
+                  },
+                  "navigator_plugs": {
+                    "widevine": {
+                      "widevine_903": {
+                        "usage": 98.0,
+                        "plugin": {
+                          "name": "Widevine Content Decryption Module",
+                          "filename": "widevinecdmadapter.dll",
+                          "description": "Enables Widevine licenses for playback of HTML audio/video content. (version: 1.4.8.903)"
+                        },
+                        "mime_types": {
+                          "application/x-ppapi-widevine-cdm": {
+                            "description": "Widevine Content Decryption Module",
+                            "suffixes": ""
+                          }
+                        }
+                      },
+                      "no": {
+                        "usage": 2.0
+                      }
+                    },
+                    "flash": {
+                      "shockwave_flash": {
+                        "usage": 95.0,
+                        "plugin": {
+                          "name": "Shockwave Flash",
+                          "filename": "pepflashplayer.dll",
+                          "description": "Shockwave Flash 22.0 r0"
+                        },
+                        "mime_types": {
+                          "application/x-shockwave-flash": {
+                            "description": "Shockwave Flash",
+                            "suffixes": "swf"
+                          },
+                          "application/futuresplash": {
+                            "description": "FutureSplash Player",
+                            "suffixes": "spl"
+                          }
+                        }
+                      },
+                      "no": {
+                        "usage": 5.0
+                      }
+                    },
+                    "native": {
+                      "native_client": {
+                        "usage": 99.0,
+                        "plugin": {
+                          "name": "Native Client",
+                          "filename": "internal-nacl-plugin",
+                          "description": ""
+                        },
+                        "mime_types": {
+                          "application/x-nacl": {
+                            "description": "Native Client Executable",
+                            "suffixes": ""
+                          },
+                          "application/x-pnacl": {
+                            "description": "Portable Native Client Executable",
+                            "suffixes": ""
+                          }
+                        }
+                      },
+                      "no": {
+                        "usage": 1.0
+                      }
+                    },
+                    "pdf_viewer": {
+                      "chrome_pdf_viewer": {
+                        "usage": 100.0,
+                        "plugin": {
+                          "name": "Chrome PDF Viewer",
+                          "filename": "mhjfbmdgcfjbbpaeojofohoefgiehjai",
+                          "description": ""
+                        },
+                        "mime_types": {
+                          "application/pdf": {
+                            "description": "",
+                            "suffixes": "pdf"
+                          }
+                        }
+                      },
+                      "no": {
+                        "usage": 0.0
+                      }
+                    },
+                    "pdf_viewer_portable": {
+                      "chrome_pdf_viewer_portable": {
+                        "usage": 100.0,
+                        "plugin": {
+                          "name": "Chrome PDF Viewer",
+                          "filename": "internal-pdf-viewer",
+                          "description": "Portable Document Format"
+                        },
+                        "mime_types": {
+                          "application/x-google-chrome-pdf": {
+                            "description": "Portable Document Format",
+                            "suffixes": "pdf"
+                          }
+                        }
+                      },
+                      "no": {
+                        "usage": 0.0
+                      }
+                    }
+                  },
+                  "navigator_product": "Gecko",
+                  "navigator_productSub": 20030107,
+                  "navigator_vendor": "Google Inc."
+                },
+                "safari": {
+                  "usage": 0.3
+                },
+                "explorer": {
+                  "usage": 0.3,
+                  "navigator_platform": "Win32",
+                  "navigator_appName": "Netscape",
+                  "navigator_appCodeName": "Mozilla",
+                  "versions": [
+                    {
+                      "navigator_appVersion": "5.0 (Windows NT 10.0; WOW64; Trident/7.0; NET4.0C; NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.30729; .NET CLR 3.5.30729; rv:11.0) like Gecko",
+                      "navigator_userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; NET4.0C; NET4.0E; .NET CLR 2.0.50727;  .NET CLR 3.0.30729; .NET CLR 3.5.30729; rv:11.0) like Gecko",
+                      "usage": 0.3
+                    }
+                  ],
+                  "navigator_language": "en-US",
+                  "navigator_maxTouchPoints": [
+                    {
+                      "name": 0,
+                      "usage": 0.95
+                    },
+                    {
+                      "name": 2,
+                      "usage": 0.1
+                    },
+                    {
+                      "name": 5,
+                      "usage": 0.1
+                    },
+                    {
+                      "name": 10,
+                      "usage": 0.1
+                    }
+                  ],
+                  "navigator_product": "Gecko"
+                },
+                "firefox": {
+                  "usage": 0.3,
+                  "navigator_platform": "Win32",
+                  "navigator_appName": "Netscape",
+                  "navigator_appCodeName": "Mozilla",
+                  "versions": [
+                    {
+                      "navigator_appVersion": "navigator_appVersion^~5.0 (Windows)",
+                      "navigator_userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0",
+                      "usage": 0.3
+                    },
+                    {
+                      "navigator_appVersion": "navigator_appVersion^~5.0 (Windows)",
+                      "navigator_userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0",
+                      "usage": 0.3
+                    }
+                  ],
+                  "navigator_cookieEnabled": [
+                    {
+                      "name": true,
+                      "usage": 0.9
+                    },
+                    {
+                      "name": false,
+                      "usage": 0.1
+                    }
+                  ],
+                  "navigator_language": "en-US",
+                  "navigator_languages": [
+                    "am",
+                    "ar",
+                    "bg",
+                    "bn",
+                    "ca",
+                    "cs",
+                    "da",
+                    "de",
+                    "el",
+                    "en-GB",
+                    "en-US",
+                    "es-419",
+                    "es",
+                    "et",
+                    "fa",
+                    "fi",
+                    "fil",
+                    "fr",
+                    "gu",
+                    "he",
+                    "hi",
+                    "hr",
+                    "hu",
+                    "id",
+                    "it",
+                    "ja",
+                    "kn",
+                    "ko",
+                    "lt",
+                    "lv",
+                    "ml",
+                    "mr",
+                    "ms",
+                    "nb",
+                    "nl",
+                    "pl",
+                    "pt-BR",
+                    "pt-PT",
+                    "ro",
+                    "ru",
+                    "sk",
+                    "sl",
+                    "sr",
+                    "sv",
+                    "sw",
+                    "ta",
+                    "te",
+                    "th",
+                    "tr",
+                    "uk",
+                    "vi",
+                    "zh-CN",
+                    "zh-TW"
+                  ],
+                  "navigator_product": "Gecko",
+                  "navigator_productSub": 20100101
+                }
+              }
+            }
+          }
+        },
+        "mac": {
+          "usage": 9.84,
+          "versions": {
+            "Sierra": {
+              "usage": 0.0
+            },
+            "ElCapitan": {
+              "usage": 60.00,
+              "browsers": {
+                "chrome": {
+                  "usage": 0.3,
+                  "navigator_platform": "MacIntel",
+                  "navigator_appName": "Netscape",
+                  "navigator_appCodeName": "Mozilla"
+                }
+              }
+            },
+            "Yosemite": {
+              "usage": 26.8
+            },
+            "Mavericks": {
+              "usage": 8.1
+            },
+            "Mountain Lion": {
+              "usage": 1.9
+            },
+            "Lion": {
+              "usage": 2.2
+            }
+          }
+        },
+        "freebsd": {
+          "usage": 0.0,
+          "versions": {
+            "8": {
+              "usage": 100.00,
+              "browsers": {
+                "chrome": {
+                  "usage": 0.3,
+                  "navigator_platform": "FreeBSD i386",
+                  "navigator_appName": "Netscape",
+                  "navigator_appCodeName": "Mozilla"
+                }
+              }
+            }
+          }
+        },
+        "linux": {
+          "usage": 1.48
+        }
+      }
+    },
+    "watch": {
+      "usage": 0.0
+    },
+    "phone": {
+      "usage": 41.56,
+      "resolutions": {
+        " 360x640": {
+          "usage": 24.62
+        },
+        "480x800": {
+          "usage": 7.97
+        },
+        "375x667": {
+          "usage": 7.5
+        },
+        "320x568": {
+          "usage": 6.67
+        },
+        "720x1280": {
+          "usage": 5.83
+        },
+        "320x480": {
+          "usage": 3.47
+        },
+        "480x854": {
+          "usage": 2.79
+        },
+        "540x960": {
+          "usage": 2.67
+        },
+        "414x736": {
+          "usage": 2.08
+        },
+        "320x570": {
+          "usage": 1.98
+        },
+        "1080x1920": {
+          "usage": 1.47
+        },
+        "240x320": {
+          "usage": 1.4
+        },
+        "640x360": {
+          "usage": 1.18
+        }
+      },
+      "platforms": {
+        "android": {
+          "usage": 68.39,
+          "versions": {
+            "Froyo": {
+              "usage": 0.3,
+              "browsers": {}
+            },
+            "Gingerbread": {
+              "usage": 0.3
+            },
+            "IceCreamSandwich": {
+              "usage": 0.3
+            },
+            "JellyBean1": {
+              "usage": 0.3
+            },
+            "JellyBean2": {
+              "usage": 0.3
+            },
+            "JellyBean3": {
+              "usage": 0.3
+            },
+            "KitKat": {
+              "usage": 0.3,
+              "browsers": {
+                "chrome": {
+                  "usage": 0.3,
+                  "navigator_platform": "~Linux armv7l",
+                  "navigator_appName": "Netscape",
+                  "navigator_appCodeName": "Mozilla",
+                  "versions": [
+                    {
+                      "navigator_appVersion": "5.0 (Linux; Android 4.4.4; SM-N910C Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.91 Mobile Safari/537.36",
+                      "navigator_userAgent": "Mozilla/5.0 (Linux; Android 4.4.4; SM-N910C Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.91 Mobile Safari/537.36",
+                      "usage": 0.3
+                    }
+                  ],
+                  "navigator_cookieEnabled": [
+                    {
+                      "name": true,
+                      "usage": 0.9
+                    },
+                    {
+                      "name": false,
+                      "usage": 0.1
+                    }
+                  ],
+                  "navigator_language": "en-US",
+                  "navigator_languages": [
+                    "am",
+                    "ar",
+                    "bg",
+                    "bn",
+                    "ca",
+                    "cs",
+                    "da",
+                    "de",
+                    "el",
+                    "en-GB",
+                    "en-US",
+                    "es-419",
+                    "es",
+                    "et",
+                    "fa",
+                    "fi",
+                    "fil",
+                    "fr",
+                    "gu",
+                    "he",
+                    "hi",
+                    "hr",
+                    "hu",
+                    "id",
+                    "it",
+                    "ja",
+                    "kn",
+                    "ko",
+                    "lt",
+                    "lv",
+                    "ml",
+                    "mr",
+                    "ms",
+                    "nb",
+                    "nl",
+                    "pl",
+                    "pt-BR",
+                    "pt-PT",
+                    "ro",
+                    "ru",
+                    "sk",
+                    "sl",
+                    "sr",
+                    "sv",
+                    "sw",
+                    "ta",
+                    "te",
+                    "th",
+                    "tr",
+                    "uk",
+                    "vi",
+                    "zh-CN",
+                    "zh-TW"
+                  ],
+                  "navigator_hardwareConcurrency": [
+                    {
+                      "name": 1,
+                      "usage": 0.3
+                    },
+                    {
+                      "name": 2,
+                      "usage": 0.3
+                    },
+                    {
+                      "name": 4,
+                      "usage": 0.3
+                    },
+                    {
+                      "name": 6,
+                      "usage": 0.3
+                    },
+                    {
+                      "name": 8,
+                      "usage": 0.3
+                    }
+                  ],
+                  "navigator_maxTouchPoints": [
+                    {
+                      "name": 5,
+                      "usage": 0.1
+                    },
+                    {
+                      "name": 10,
+                      "usage": 0.1
+                    }
+                  ],
+                  "navigator_product": "Gecko",
+                  "navigator_productSub": 20030107,
+                  "navigator_vendor": "Google Inc."
+                },
+                "opera": {}
+              }
+            },
+            "Lollipop0": {
+              "usage": 0.3
+            },
+            "Lollipop1": {
+              "usage": 0.3
+            },
+            "Marshmallow": {
+              "usage": 0.3
+            },
+            "Nougat": {
+              "usage": 0.3
+            }
+          }
+        },
+        "ios": {
+          "usage": 20.33,
+          "versions": {
+            "10": {
+              "usage": 0.0
+            },
+            "9_3": {
+              "usage": 60.0,
+              "browsers": {
+                "chrome": {
+                  "usage": 0.3,
+                  "navigator_platform": "iPhone",
+                  "navigator_appName": "Netscape",
+                  "navigator_appCodeName": "Mozilla"
+                },
+                "safari": {
+                  "usage": 0.3
+                }
+              }
+            },
+            "9_2": {
+              "usage": 15.1
+            },
+            "7_1": {
+              "usage": 5.4
+            },
+            "8_4": {
+              "usage": 4.6
+            },
+            "8_1": {
+              "usage": 3.6
+            },
+            "8_3": {
+              "usage": 2.9
+            },
+            "9_1": {
+              "usage": 2.9
+            },
+            "9_0": {
+              "usage": 1.8
+            },
+            "8_2": {
+              "usage": 0.9
+            }
+          }
+        },
+        "windowsphone": {
+          "usage": 1.94,
+          "browsers": {
+            "chrome": {
+              "usage": 0.3
+            },
+            "safari": {
+              "usage": 0.3
+            }
+          }
+        }
+      }
+    }
+  }
+}
